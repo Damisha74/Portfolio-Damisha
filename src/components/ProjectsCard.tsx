@@ -7,7 +7,7 @@ interface Props {
   src: string;
   githubLink: string;
   liveLink: string;
-  technologies: string[];  // New prop to display technologies
+  technologies: string[]; 
 }
 
 const ProjectsCard = ({
